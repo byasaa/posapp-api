@@ -1,4 +1,3 @@
-const conn = require('../helpers/mysql')
 const helper = require('../helpers/index')
 const productModel = require('../model/product')
 
